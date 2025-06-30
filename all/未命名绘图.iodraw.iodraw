@@ -31,9 +31,6 @@
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SwcxqXwguuHxz4SMJ-qV-15" target="SwcxqXwguuHxz4SMJ-qV-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwcxqXwguuHxz4SMJ-qV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SwcxqXwguuHxz4SMJ-qV-15" target="SwcxqXwguuHxz4SMJ-qV-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-15" value="操作员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
         </mxCell>
@@ -47,10 +44,10 @@
           <mxGeometry x="560" y="144" width="80" height="126" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-24" value="令号维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="90" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="96" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-27" value="入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="47" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-28" value="领用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="337" width="80" height="40" as="geometry" />
