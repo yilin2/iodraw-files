@@ -41,16 +41,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-22" value="修改密码&lt;div&gt;&lt;br&gt;&lt;div&gt;库存&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;记录&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="205" width="80" height="126" as="geometry" />
+          <mxGeometry x="560" y="200" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-24" value="令号维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="157" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-27" value="入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="108" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-28" value="领用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="337" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-29" value="归还" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="80" height="40" as="geometry" />
