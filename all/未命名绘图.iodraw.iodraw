@@ -50,6 +50,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SwcxqXwguuHxz4SMJ-qV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="SwcxqXwguuHxz4SMJ-qV-15" target="SwcxqXwguuHxz4SMJ-qV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-15" value="操作员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
         </mxCell>
@@ -82,15 +85,6 @@
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.048;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SwcxqXwguuHxz4SMJ-qV-15" target="SwcxqXwguuHxz4SMJ-qV-28">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SwcxqXwguuHxz4SMJ-qV-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SwcxqXwguuHxz4SMJ-qV-15" target="SwcxqXwguuHxz4SMJ-qV-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="380" />
-              <mxPoint x="520" y="220" />
-              <mxPoint x="559" y="220" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
