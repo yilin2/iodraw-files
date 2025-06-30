@@ -32,25 +32,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-18" value="记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="301" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="305" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-21" value="库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="349" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="353" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-22" value="修改密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="253" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="257" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-24" value="令号维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="205" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="209" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-27" value="入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="156" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-28" value="领用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="397" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="401" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-29" value="归还" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="444" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="448" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
