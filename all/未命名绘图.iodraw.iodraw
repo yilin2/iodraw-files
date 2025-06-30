@@ -44,10 +44,10 @@
           <mxGeometry x="560" y="200" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-24" value="令号维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="157" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-27" value="入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="90" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-28" value="领用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="80" height="40" as="geometry" />
