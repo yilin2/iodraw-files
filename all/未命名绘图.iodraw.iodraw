@@ -40,8 +40,8 @@
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-22" value="修改密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="192" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SwcxqXwguuHxz4SMJ-qV-24" value="修改密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="144" width="80" height="40" as="geometry" />
+        <mxCell id="SwcxqXwguuHxz4SMJ-qV-24" value="令号维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="143" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
