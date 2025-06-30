@@ -37,14 +37,11 @@
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-21" value="库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="288" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SwcxqXwguuHxz4SMJ-qV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwcxqXwguuHxz4SMJ-qV-22" target="SwcxqXwguuHxz4SMJ-qV-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-22" value="修改密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="192" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-24" value="修改密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="72" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="144" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
