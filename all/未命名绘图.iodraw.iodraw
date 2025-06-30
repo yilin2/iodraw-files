@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-10" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-15" value="操作员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
@@ -32,19 +32,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-18" value="记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="205" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="192" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-21" value="库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="253" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-22" value="修改密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="157" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="144" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-24" value="令号维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="109" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="96" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-27" value="入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="60" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="47" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-28" value="领用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="337" width="80" height="40" as="geometry" />
