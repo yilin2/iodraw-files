@@ -31,12 +31,6 @@
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-15" value="操作员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SwcxqXwguuHxz4SMJ-qV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SwcxqXwguuHxz4SMJ-qV-8" target="SwcxqXwguuHxz4SMJ-qV-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="350" as="sourcePoint" />
-            <mxPoint x="410" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-22" value="修改密码&lt;div&gt;&lt;br&gt;&lt;div&gt;库存&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;记录&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="80" height="120" as="geometry" />
         </mxCell>
@@ -59,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-51" value="刷卡登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="280" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
