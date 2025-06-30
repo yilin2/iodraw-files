@@ -47,7 +47,7 @@
           <mxGeometry x="560" y="95" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwcxqXwguuHxz4SMJ-qV-28" value="库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="336" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
